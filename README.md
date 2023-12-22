@@ -12,7 +12,7 @@ For a full introduction, please visit <a href = 'https://mp.weixin.qq.com/s?__bi
 
 [//]: # (~~**A demo that can be experienced is being prepared.**~~)
 
-ControlSpace: Multi-view consistent image generation framework, updated the AIGC design application SOTA
+**ControlSpace: Multi-view consistent image generation framework, updated the AIGC design application SOTA**
 
 Institute for AID Lab
 
@@ -77,18 +77,14 @@ Our future work aims to enhance the controllability of 3D scenes based on the Co
     <img src="docs/6.gif" alt="gif6" width="45%">
 </div>
 
-<div style="display: flex; width: 100%;">
-  <div style="width: 50%;">
-    <img src="docs/7.png" style="width: 100%; height: auto;">
-  </div>
-  <div style="width: 50%; display: flex; flex-direction: column; justify-content: center;">
-    <div style="margin-bottom: 10px;"> <!-- Add margin for spacing between the two images -->
-      <img src="docs/7.gif" style="width: 100%; height: auto;">
-    </div>
-    <div>
-      <img src="docs/8.gif" style="width: 100%; height: auto;">
-    </div>
-  </div>
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/7.png" alt="png7" width="28%">
+    <img src="docs/7.gif" alt="gif7" width="62%">
+</div>
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/8.png" alt="png8" width="28%">
+    <img src="docs/8.gif" alt="gif8" width="62%">
 </div>
 
 
