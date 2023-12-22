@@ -18,21 +18,44 @@ Institute for AID Lab
 
 <a href='https://github.com/AIDLlab/ControlSpace/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> 
 
-# Demo Presentation
-![figure5](link_to_figure5.jpg)
+# Demo
 
-![gif1](link_to_gif1.gif)
-![gif2](link_to_gif2.gif)
-![gif3](link_to_gif3.gif)
+![gif1](docs/1.gif) | ![gif2](docs/2.gif) | ![gif3](docs/3.gif)
+
+![figure1](docs/1.jpg)
+![figure2](docs/2.jpg)
+![figure3](docs/3.jpg)
+
+![gif4](docs/4.gif) | ![figure4](docs/4.jpg)
+
+# Method
+
+The framework consists of two main components: Geometric Consistency and Style Consistency.
+![Link to Figure 5](docs/5.png)
+
+**Geometric Consistency**
+
+The geometric consistency part involves techniques such as iterative alignment strategies and alignment-aware training strategies to establish geometric priors on Nerf/Mip-Nerf models (AGP).
+
+**Style Consistency**
+
+The style consistency component employs cross-frame non-local attention modules to address frame alignment issues.
 
 
-![figure1](link_to_figure1.jpg)
-![figure2](link_to_figure2.jpg)
-![figure3](link_to_figure3.jpg)
+# Performance Evaluation
 
+The Control Space framework demonstrates a significant advantage in terms of consistency when compared to generating multiple images through ControlNet individually.
+![Link to Figure 6](docs/6.png)
 
-![gif4](link_to_gif4.gif) | ![figure4](link_to_figure4.jpg)
+# Future Developments
 
+Our future work aims to enhance the controllability of 3D scenes based on the Control Space framework.
+![gif5](docs/5.gif) | ![gif6](docs/6.gif)
+![Link to Figure 7](docs/7.png)
+![Link to gif7](docs/7.gif) | ![Link to gif8](docs/8.gif)
 
+# Contact Us
 
-![oufit animie](docs/1.gif)![oufit animie](docs/2.gif)
+Email: business@aidlab.tech
+![Link to Figure 8](docs/8.jpg) | ![Link to Figure 9](docs/9.jpg)
+
