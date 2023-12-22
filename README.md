@@ -20,17 +20,38 @@ Institute for AID Lab
 
 # Demo
 
-![gif1](docs/1.gif) | ![gif2](docs/2.gif) | ![gif3](docs/3.gif)
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/1.gif" alt="gif1" width="30%">
+    <img src="docs/2.gif" alt="gif2" width="30%">
+    <img src="docs/3.gif" alt="gif3" width="30%">
+</div>
 
-![figure1](docs/1.jpg)
-![figure2](docs/2.jpg)
-![figure3](docs/3.jpg)
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/4.gif" alt="gif4" width="29.6%">
+    <img src="docs/4.png" alt="figure4" width="60.4%">
+</div>
 
-![gif4](docs/4.gif) | ![figure4](docs/4.jpg)
+<br> <!-- 插入一行间距 -->
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/3.png" alt="figure3" width="90%">
+</div>
+
+<br> <!-- 插入一行间距 -->
+
+<div style="display: flex; justify-content: space-between;">  
+    <img src="docs/1.png" alt="figure1" width="90%">
+    <img src="docs/2.png" alt="figure2" width="90%">
+</div>
+
+
 
 # Method
 
 The framework consists of two main components: Geometric Consistency and Style Consistency.
+
+<br> <!-- 插入一行间距 -->
+
 ![Link to Figure 5](docs/5.png)
 
 **Geometric Consistency**
@@ -41,21 +62,39 @@ The geometric consistency part involves techniques such as iterative alignment s
 
 The style consistency component employs cross-frame non-local attention modules to address frame alignment issues.
 
-
 # Performance Evaluation
 
 The Control Space framework demonstrates a significant advantage in terms of consistency when compared to generating multiple images through ControlNet individually.
+
 ![Link to Figure 6](docs/6.png)
 
 # Future Developments
 
 Our future work aims to enhance the controllability of 3D scenes based on the Control Space framework.
-![gif5](docs/5.gif) | ![gif6](docs/6.gif)
-![Link to Figure 7](docs/7.png)
-![Link to gif7](docs/7.gif) | ![Link to gif8](docs/8.gif)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/5.gif" alt="gif5" width="45%">
+    <img src="docs/6.gif" alt="gif6" width="45%">
+</div>
+
+<div style="display: flex;">
+    <div style="flex: 1;">
+        <img src="docs/7.png" alt="Link to Figure 7" width="20%">
+    </div>
+    
+    <div style="flex: 1; display: flex; flex-direction: column; margin-left: 10px;">
+        <img src="docs/7.gif" alt="Link to gif7" width="70%">
+        <img src="docs/8.gif" alt="Link to gif8" width="70%">
+    </div>
+</div>
+
+
 
 # Contact Us
 
 Email: business@aidlab.tech
-![Link to Figure 8](docs/8.jpg) | ![Link to Figure 9](docs/9.jpg)
+
+<div style="display: flex; justify-content: space-between;">
+    <img src="docs/8.jpg" alt="Link to Figure 8" width="46%">
+    <img src="docs/9.jpg" alt="Link to Figure 9" width="44%">
 
