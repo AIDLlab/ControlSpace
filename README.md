@@ -77,24 +77,25 @@ Our future work aims to enhance the controllability of 3D scenes based on the Co
     <img src="docs/6.gif" alt="gif6" width="45%">
 </div>
 
-<div style="display: flex;">
-    <div style="flex: 1;">
-        <img src="docs/7.png" alt="Link to Figure 7" width="20%">
+<div style="display: flex; width: 100%;">
+  <div style="width: 50%;">
+    <img src="docs/7.png" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 50%; display: flex; flex-direction: column; justify-content: center;">
+    <div style="margin-bottom: 10px;"> <!-- Add margin for spacing between the two images -->
+      <img src="docs/7.gif" style="width: 100%; height: auto;">
     </div>
-    
-    <div style="flex: 1; display: flex; flex-direction: column; margin-left: 10px;">
-        <img src="docs/7.gif" alt="Link to gif7" width="70%">
-        <img src="docs/8.gif" alt="Link to gif8" width="70%">
+    <div>
+      <img src="docs/8.gif" style="width: 100%; height: auto;">
     </div>
+  </div>
 </div>
-
 
 
 # Contact Us
 
 Email: business@aidlab.tech
 
-<div style="display: flex; justify-content: space-between;">
-    <img src="docs/8.jpg" alt="Link to Figure 8" width="46%">
-    <img src="docs/9.jpg" alt="Link to Figure 9" width="44%">
+<div style="display: flex;">
+    <img src="docs/8.jpg" alt="Link to Figure 8" width="23%">
 
